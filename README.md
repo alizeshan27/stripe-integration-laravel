@@ -1,7 +1,7 @@
 # Stripe checkout process in Laravel
 
 The purpose of this repo is to show you all the necessary steps you should follow to implement complete and correct stripe checkout flow. 
-This repo is created alongside with the [YouTube Tutorial](https://youtube.com/[ID]).
+
 
 ## Full Flow
 
@@ -18,10 +18,5 @@ This repo is created alongside with the [YouTube Tutorial](https://youtube.com/[
 1. Run migrations and seed `php artisan migrate`
 1. Run `php artisan serve` which will start server at http://localhost:8000
 
-
-
-## Laravel Sponsors
-
-Support my work by [Buying me a beer](https://buymeacoffee.com/thecodeholic) or [becoming a patron](https://www.patreon.com/thecodeholic).
 
 
